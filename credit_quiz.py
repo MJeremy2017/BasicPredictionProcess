@@ -233,3 +233,5 @@ np.mean(lgb_f1_scores)
 
 # f1 score is 0.47361385446793069
 # well, as far the best, but not outstanding
+
+# changed from github
